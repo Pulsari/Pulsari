@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pulsari
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Brett Bentley
+- 👀 I’m interested in Web and Front-End Development
+- 🌱 I’m currently building my portfolio site, taking courses to further my knowledge of CSS and JavaScript. In the pipeline are React,Typescript, GraphQL and Tailwind and that list will probably grow.
 - 📫 How to reach me: @Banacheq on Twitter
 
 <!---
